@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnab
-- 👀 I’m interested in Node, Serverless and React
-- 🌱 I’m currently learning Docker
+- 👀 I’m interested in Node, Serverless and React.
+- 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on full stack projects.
 - 📫 How to reach me: arnabd39@gmail.com
 
